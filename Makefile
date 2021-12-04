@@ -31,3 +31,6 @@ compose-schema-validate:
 
 ci-check:
 	docker-compose --file docker-compose.yml up --abort-on-container-exit
+
+find-todo:
+	git grep TODO
