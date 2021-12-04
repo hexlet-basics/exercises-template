@@ -8,4 +8,5 @@ RUN cd /usr/local/bin && curl -s https://raw.githubusercontent.com/pgrange/bash_
 
 COPY . .
 
-ENV PATH=/exercises-bash/bin:$PATH
+# TODO: replace
+ENV PATH=/exercises-template/bin:$PATH
