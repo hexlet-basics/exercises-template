@@ -7,17 +7,19 @@
 
 The template repository contains the exercise `Hello, World!` and the basic structure for all exercise repos. Use the `make find-todo` command to find a template code to replace for your language
 
-### How to contribute
+## How to contribute
 
 * Discussions on our Slack channel
 
 ## Develop
 
-```sh
+```bash
 # setup
 make
 # run
 make compose
+# check
+make ci-check
 
 # run tests
 make compose-test
@@ -30,8 +32,8 @@ make compose-schema-validate
 
 ##
 
-[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=exercises-javascript)
+[![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=exercises-template)
 
-This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io?utm_source=github&utm_medium=link&utm_campaign=exercises-javascript).
+This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=exercises-template).
 
-See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
+See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
