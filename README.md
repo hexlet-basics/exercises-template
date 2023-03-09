@@ -9,7 +9,7 @@ The template repository contains the exercise `Hello, World!` and the basic stru
 
 ## How to contribute
 
-* Discussions on our Slack channel
+* Discuss the project on Telegram: https://t.me/hexletcommunity/12
 
 ## Develop
 
